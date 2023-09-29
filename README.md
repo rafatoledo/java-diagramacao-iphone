@@ -10,8 +10,10 @@ As funcionalidades representadas no diagrama são:
 - Aparelho Telefônico;
 - Navegador na Internet.
 
-![Digramação de classes e interfaces do IPhone](../diagramacao-iphone/lib/DiagramaClasseIPhone.png)
+![Digramação de classes e interfaces do IPhone](lib/DiagramaClasseIPhone.png)
 
 ## Classes e Interfaces em JAVA
 
 Na pasta __src__, organizadas em __pacotes__, estão as classes e interfaces na linguagem JAVA e, na  raiz, a classe __Usuario.java__ é a responsável por executar as funcionalidades.
+
+Diagrama criado com [draw.io](https://app.diagrams.net).
